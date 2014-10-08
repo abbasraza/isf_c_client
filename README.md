@@ -25,6 +25,6 @@ https://github.com/sqlparser/sql-pretty-printer/wiki/SQL-Coding-Standard-and-Gui
 
 [sql formatter plugin for Notepad++](https://github.com/sqlparser/isf_notepad)
 
-
+[sql formatter plugin for Notepad++](https://github.com/sqlparser/isf_eclipse)
 
 
