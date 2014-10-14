@@ -29,4 +29,4 @@ https://github.com/sqlparser/sql-pretty-printer/wiki/SQL-Coding-Standard-and-Gui
 
 [sql formatter plugin for eclipse](https://github.com/sqlparser/isf_eclipse)
 
-
+[sql formatter plugin for UltraEdit](https://github.com/sqlparser/isf_ultraedit)
